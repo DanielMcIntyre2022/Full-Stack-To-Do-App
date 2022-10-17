@@ -53,4 +53,4 @@ app.put('/todo/complete/:id', async (req, res) => {
 
 // listening for server //
 
-app.listen(3001, ()=> console.log('server started on port 3001'));
+app.listen(4000, ()=> console.log('server started on port 4000'));
